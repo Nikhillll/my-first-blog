@@ -74,6 +74,3 @@ def repeat_login(request):
 
 def repeat_logout(request):
 	return render_to_response('repeat_logout.html')
-
-def my_custom_page_not_found_view(request):
-	return render_to_response('page not found')
