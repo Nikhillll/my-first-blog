@@ -1,0 +1,210 @@
+[
+{
+    "fields": {
+        "category": "Love",
+        "body": "Hello, this is Article test !",
+        "author": "Mohit",
+        "pub_date": "2014-09-26T21:06:57Z",
+        "title": "Article 1",
+        "optional_image": "",
+        "likes": 4,
+        "hero_image": "uploaded_files/1444117651_18_Desert.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 2
+},
+{
+    "fields": {
+        "category": "War",
+        "body": "Hello, this is article Test 2 !",
+        "author": "Kunal",
+        "pub_date": "2015-09-30T21:09:42Z",
+        "title": "Article 2",
+        "optional_image": "",
+        "likes": 2,
+        "hero_image": "uploaded_files/1444117678_23_Hydrangeas.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 3
+},
+{
+    "fields": {
+        "category": "Comedy",
+        "body": "MS-DOS and Windows use a common text file format, with each line of text separated by a two-character combination: CR and LF, which have ASCII codes 13 and 10. It is common for the last line of text not to be terminated with a CR-LF marker, and many text editors (including Notepad) do not automatically insert one on the last line.\r\n\r\nMost Windows text files use a form of ANSI, OEM or Unicode encoding. What Windows terminology calls \"ANSI encodings\" are usually single-byte ISO-8859 encodings (i.e. ANSI in the Microsoft Notepad menus is really \"System Code Page\", non-Unicode, legacy encoding), except for in locales such as Chinese, Japanese and Korean that require double-byte character sets. ANSI encodings were traditionally used as default system locales within Windows, before the transition to Unicode. By contrast, OEM encodings, also known as MS-DOS code pages, were defined by IBM for use in the original IBM PC text mode display system. They typically include graphical and line-drawing characters common in (possibly full-screen) MS-DOS applications. Newer Windows text files may use a Unicode encoding such as UTF-16LE or UTF-8, with Byte Order Mark.",
+        "author": "Aditya",
+        "pub_date": "2015-09-30T21:10:18Z",
+        "title": "Standard Windows",
+        "optional_image": "",
+        "likes": 1,
+        "hero_image": "uploaded_files/1444117704_62_Jellyfish.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 4
+},
+{
+    "fields": {
+        "category": "History",
+        "body": "hello",
+        "author": "Lakshman",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 4",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444117740_53_Tulips.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 5
+},
+{
+    "fields": {
+        "category": "Business",
+        "body": "Shah Rukh Khan (born Shahrukh Khan, 2 November 1965), also known as SRK, is an Indian film actor, producer and television personality. Referred to in the media as \"Baadshah of Bollywood\", \"King of Bollywood\" or \"King Khan\", he has appeared in more than 80 Bollywood films. Described by the Los Angeles Times as perhaps \"the world's biggest movie star\",[3] Khan has a significant following in Asia and the Indian diaspora worldwide. He is one of the richest actors in the world, with an estimated net worth of US$400\u2013600 million, and his work in Bollywood has earned him numerous accolades, including 14 Filmfare Awards.\r\n\r\nKhan started his career with appearances in several television series in the late 1980s. He made his Bollywood debut in 1992 with Deewana. Early in his career, Khan was recognised for portraying villainous roles in the films Darr (1993), Baazigar (1993) and Anjaam (1994). He then rose to prominence after starring in a series of romantic films, including Dilwale Dulhania Le Jayenge (1995), Dil To Pagal Hai (1997), Kuch Kuch Hota Hai (1998) and Kabhi Khushi Kabhie Gham... (2001). He earned critical acclaim for his portrayal of an alcoholic in Devdas (2002), a NASA scientist in Swades (2004), a hockey coach in Chak De! India (2007) and a man with Asperger syndrome in My Name Is Khan (2010). Many of his films display themes of Indian national identity and connections with diaspora communities, or gender, racial, social and religious differences and grievances. For his contributions to film, the Government of India honoured him with the Padma Shri, and the Government of France awarded him both the Ordre des Arts et des Lettres and the L\u00e9gion d'honneur.",
+        "author": "Ram",
+        "pub_date": "2015-10-05T23:11:25Z",
+        "title": "SRK",
+        "optional_image": "",
+        "likes": 7,
+        "hero_image": "uploaded_files/1444117767_3_Penguins.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 6
+},
+{
+    "fields": {
+        "category": "Action",
+        "body": "hello , this is test 6 with image",
+        "author": "Neelesh",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 6",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444117086_98_Koala.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 7
+},
+{
+    "fields": {
+        "category": "Play Boy",
+        "body": "hello",
+        "author": "Sunny",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 7",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444117173_09_Chrysanthemum.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 8
+},
+{
+    "fields": {
+        "category": "",
+        "body": "Hello , Neelesh !",
+        "author": "",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 8",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444159884_36_Jellyfish.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 9
+},
+{
+    "fields": {
+        "category": "",
+        "body": "hello adi!",
+        "author": "",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 9",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444161884_69_Desert.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 10
+},
+{
+    "fields": {
+        "category": "",
+        "body": "hey",
+        "author": "",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 10",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444354412_32_Penguins.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 11
+},
+{
+    "fields": {
+        "category": "Something",
+        "body": "hello",
+        "author": "Mohit",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 11",
+        "optional_image": "",
+        "likes": 0,
+        "hero_image": "uploaded_files/1444354518_6_Lighthouse.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 12
+},
+{
+    "fields": {
+        "category": "",
+        "body": "asd",
+        "author": "",
+        "pub_date": "2015-05-10T07:00:00Z",
+        "title": "Article 12",
+        "optional_image": "",
+        "likes": 1,
+        "hero_image": "uploaded_files/1444355119_31_Penguins.jpg"
+    },
+    "model": "artical.artical",
+    "pk": 13
+},
+{
+    "fields": {
+        "pub_date": "2015-10-08T22:43:36Z",
+        "article": 8,
+        "user_name": "",
+        "user_comment": "Sai hai bhai !"
+    },
+    "model": "artical.comment",
+    "pk": 1
+},
+{
+    "fields": {
+        "pub_date": "2015-10-08T23:09:58Z",
+        "article": 2,
+        "user_name": "mohit",
+        "user_comment": "testing 1"
+    },
+    "model": "artical.comment",
+    "pk": 2
+},
+{
+    "fields": {
+        "pub_date": "2015-10-08T23:27:13Z",
+        "article": 2,
+        "user_name": "adi",
+        "user_comment": "testing 2"
+    },
+    "model": "artical.comment",
+    "pk": 4
+},
+{
+    "fields": {
+        "pub_date": "2015-10-09T01:35:51Z",
+        "article": 12,
+        "user_name": "Guest",
+        "user_comment": "None"
+    },
+    "model": "artical.comment",
+    "pk": 5
+}
+]

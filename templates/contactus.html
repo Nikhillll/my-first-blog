@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block dup-jumbo %}
+<div></div>
+{% endblock %}
+
+{% block sidebar %}
+<div id="sidebar-article">
+	<ul><a href="/admin"><img src="{% static "images/admin.png" %}" width="50">Admin</a></ul>
+	<ul><a href="/articles/all"><img src="{% static "images/a.png" %}" width="50">All Articles</a></ul>
+	<ul><a href="/articles/create"><img src="{% static "images/create article.png" %}" width="50">Create Article</a></ul>
+
+	<h3>Search</h3>
+	{% csrf_token %}
+	<input type="text" id="search" name="search"/>
+	<ul id="search-results">
+
+	</ul>	
+</div>				
+{% endblock %}
+
+
+{% block content %}
+<div class="content-details">	
+	<h2>Contact Us!!</h2>
+	<p><font font-size="15">Name :-</font>Name :- Mohit Makhija</p>
+	<p><font font-size="15">Phone Number :-</font>Name :- (+91)7411-419370</p>
+	<p><font font-size="15">Email ID :-</font>Name :- mohit_makhija@hotmail.com</p>
+</div>
+{% endblock %}
